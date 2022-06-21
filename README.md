@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on mobil apps
 - 📫 How to reach me: drop me a message
 
-##What I like
+## What I like
 
 - Universe 🌌
 - Internet / Tech 👨‍💻
