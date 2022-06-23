@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Murci2022
 - 👀 I’m interested in programming and webdesign
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Html CSS JS
 - 💞️ I’m looking to collaborate on mobil apps
 - 📫 How to reach me: drop me a message
 
