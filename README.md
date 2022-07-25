@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Murci2022
 - 👀 I’m interested in programming and webdesign
 - 🌱 I’m currently learning Html CSS JS
-- 💞️ I’m looking to collaborate on mobil apps
+- 💞️ I’m looking to collaborate on mobil apps   
 - 📫 How to reach me: drop me a message
 
 <h2 align="center">TechStack I'm currently using & learning 🖥</h2>
@@ -71,6 +71,7 @@
 - Sushi 🍣
 - Beach 🏝
 - Hot Spring 🛁
+- Biking 
 
 <!---
 Murci2022/Murci2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
