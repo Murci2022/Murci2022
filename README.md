@@ -12,10 +12,10 @@
 </div>
 
 <div align="center">
-<img src="<div align="center">
+
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="90">
-</div>" width="90">
-</div>
+</div>" 
+
 
 
 
