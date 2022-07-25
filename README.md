@@ -54,6 +54,7 @@
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40"/>
  &nbsp; -->
 </p>
+<hr>
 <br>
 <div >
 
