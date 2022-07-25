@@ -13,8 +13,9 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="90">
-</div>" 
+<img src="https://user-images.githubusercontent.com/103876505/180807046-905616cd-ca53-47e9-8d7f-1744b193a363.png" width="90">
+
+</div>
 
 
 
