@@ -13,19 +13,6 @@
 
 <br>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/103876505/180807046-905616cd-ca53-47e9-8d7f-1744b193a363.png" width="90">
-
-</div>
-<br>
-
-
-
-
-
-
-
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>
  &nbsp;
@@ -67,6 +54,12 @@
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40"/>
  &nbsp; -->
 </p>
+<br>
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/103876505/180807046-905616cd-ca53-47e9-8d7f-1744b193a363.png" width="90">
+
+</div>
 <br>
 
 ## What I like
