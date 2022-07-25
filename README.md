@@ -1,4 +1,4 @@
-## Hello, I'm <strong>Mate</strong> 👋🏻
+## Hello, I'm **Mate** 👋🏻
 
 - 👋 Hi, I’m @Murci2022
 - 👀 I’m interested in programming and webdesign
