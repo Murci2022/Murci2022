@@ -8,6 +8,9 @@
 
 <h2 align="center">TechStack I'm currently using & learning 🖥</h2>
 <!-- <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> -->
+![image](https://user-images.githubusercontent.com/103876505/180803553-d3308372-1640-4171-9296-3fe9a83cec9a.png)
+
+
 
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>
