@@ -8,7 +8,7 @@
 
 <h2 align="center">TechStack I'm currently using & learning 🖥</h2>
 <!-- <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> -->
-![image](https://user-images.githubusercontent.com/103876505/180803553-d3308372-1640-4171-9296-3fe9a83cec9a.png)
+<img src="https://user-images.githubusercontent.com/103876505/180803553-d3308372-1640-4171-9296-3fe9a83cec9a.png" width="40">
 
 
 
