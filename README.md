@@ -63,7 +63,7 @@
 </div>
 
 
-## What Ilike
+## What I like
 
 - Universe 🌌
 - Internet / Tech 👨‍💻
