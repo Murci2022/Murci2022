@@ -1,8 +1,7 @@
-## Hello, I' m **Matheos** 👋🏻
+## 👋 Hello, I' m **Murci** 👋🏻
 
-- 👋 Hi, I’m @Murci2022
 - 👀 I’m interested in programming and webdesign
-- 🌱 I’m currently learning JavaScript Next.js Tailwind Typescript
+- 🌱 I’m currently learning JavaScript React Tailwind Typescript Redux-Toolkit
 - 💞️ I’m looking to collaborate on mobil apps   
 - 📫 How to reach me: drop me a message
 
