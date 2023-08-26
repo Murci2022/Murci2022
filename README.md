@@ -1,4 +1,4 @@
-## 👋 Hello, I' m **Murci** 👋🏻
+## 👋 Hello, I' m **Murci2022** 👋🏻
 
 - 👀 I’m interested in programming and webdesign
 - 🌱 I’m currently learning JavaScript React Tailwind Typescript Redux-Toolkit
